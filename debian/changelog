@@ -1,3 +1,9 @@
+cdparanoia (3.10.2+debian-15) unstable; urgency=medium
+
+  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
+
+ -- tunaichao <tunaichao@uniontech.com>  Fri, 11 Sep 2026 10:04:39 +0800
+
 cdparanoia (3.10.2+debian-14) unstable; urgency=medium
 
   [ Debian Janitor ]
